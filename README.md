@@ -12,7 +12,6 @@ This project performs an in-depth analysis of stock market data over the past ye
 - Python
 - MySQL
 - Streamlit
-- Seaborn
 - Power BI
 
 ---
